@@ -1,2 +1,2 @@
-# Hello-World
-My first attempt at using GitHu
+b# Hello-World
+My first attempt at using GitHub
